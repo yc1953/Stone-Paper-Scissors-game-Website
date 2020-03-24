@@ -1,4 +1,9 @@
 # Stone-Paper-Scissors-game
+https://yogesh-1952.github.io/Stone-Paper-Scissors-game/
+
 I have completed this project by my own after having a look of the project made by BRAD TRAVERSY. 
 
-I have used HTML, CSS and JavaScript in this project.
+Technologies Used:
+-> HTML
+-> CSS
+-> JavaScript
